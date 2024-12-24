@@ -106,7 +106,7 @@ const CalculatorForm: React.FC = () => {
       }}
     >
       <Typography variant="h5" sx={{ mb: 3, textAlign: "center" }}>
-        LL97 Calculator Form
+        Carbon Emission Calculator
       </Typography>
       <form onSubmit={handleSubmit(onSubmit)}>
         {/* Account Number */}
